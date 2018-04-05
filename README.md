@@ -2,4 +2,4 @@
 
     Just for testing purpose.
     
-   Testing purpose
+   Testing purpose only
